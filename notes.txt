@@ -1,0 +1,2 @@
+WHAT IS MONGOOSE??
+-mongoose is a ODM librabry , object data modelling ...it basically wraps mongodb with an extra layer that allows us to use methods to read and write database docs , it also gives a way to declare models and schemas 
